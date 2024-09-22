@@ -30,7 +30,7 @@ The structure of **PDRNet** (the name `PDR` stands for **P**hase-aggregated **D*
 <br>
 
 ## Notice :exclamation:
-Due to potential business cooperation, public access to this repository is restricted. 
+Due to existing or potential commercial applications, public access to this repository is restricted. 
 
 Please email us to request permission if code is needed.
 
