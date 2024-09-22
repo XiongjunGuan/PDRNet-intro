@@ -37,7 +37,7 @@ Please email us to request permission if code is needed.
 <br>
 
 ## News :bell:
-- **[Septs. 22 2024]** Public access to this repository is restricted.
+- **[Sept. 22 2024]** Public access to this repository is restricted.
 - **[May 24 2024]** Code is coming.
 
 <br>
